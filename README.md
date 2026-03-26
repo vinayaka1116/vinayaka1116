@@ -43,7 +43,7 @@
   <a href="https://linkedin.com/in/YOUR_LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:vinayakabankapur4@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
 </p>
